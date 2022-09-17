@@ -3,7 +3,7 @@ This is the repo for our NeurIPS 2022 paper based on Pytorch.
 
 **Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative**
 
-by Tianxin Wei*, Yuning You*, Tianlong Chen, Yang Shen, Jingrui He, Zhangyang Wang. (* indicates equal contribution)
+by Tianxin Wei*, Yuning You*, Tianlong Chen, Yang Shen, Jingrui He, Zhangyang Wang.
 
 ## Overview
 This paper targets at improving the generalizability of hypergraph neural networks through contrastive learning. We study the problem of how to construct contrastive views of hypergraphs via augmentations. Extensive analysis and experiments are conducted to assess the performance of our fabricated and generative augmentations on comprehensive types of data sets.

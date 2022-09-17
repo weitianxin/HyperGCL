@@ -8,7 +8,7 @@ by Tianxin Wei*, Yuning You*, Tianlong Chen, Yang Shen, Jingrui He, Zhangyang Wa
 ## Overview
 This paper targets at improving the generalizability of hypergraph neural networks through contrastive learning. We study the problem of how to construct contrastive views of hypergraphs via augmentations. Extensive analysis and experiments are conducted to assess the performance of our fabricated and generative augmentations on comprehensive types of data sets.
 
-![123](figure/frame.pdf)
+![123](figure/frame.jpg)
 
 ## Enviroment
 ```

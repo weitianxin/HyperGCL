@@ -1,5 +1,5 @@
 cuda=$1
-# edge mask hyperedge subgraph drop
+# A0: none, A1: hyperedge, A2: edge, A3: drop, A4: mask, A5: subgraph
 aug=$2
 dataset_list=( cora citeseer pubmed ModelNet40 coauthor_cora coauthor_dblp \
     NTU2012 zoo Mushroom 20newsW100 \

@@ -31,6 +31,7 @@ All the data files are stored in the "data" folder.
 
 To conduct experiments, please unzip the raw_data.zip in the folder.
 ```
+cd data/
 unzip raw_data.zip
 ```
 It will extract the data sets into the corresponding folder.
@@ -52,8 +53,7 @@ To reproduce the experiments of fabricated augmentations, please run:
 ```
 ./train.sh 0 edge
 ```
-where 0 is the GPU device id to use and edge denotes the fabricated augmentation method A2. We write most of the important parameters and instructions in the script file. Other series of experiments are written in the same philosophy, if you're interested, please run other scripts.
-
+where 0 is the GPU device id to use and edge denotes the fabricated augmentation method A2. We write most of the important parameters and instructions in the script file. Other series of experiments are written in the same philosophy, if you're interested, please run other scripts. Note that random seeds are used to generate different data splits, other processes are not fully fixed.
 
 ## Acknowledgements
 The data sets and part of our code refer to the [AllSet](https://github.com/jianhao2016/AllSet) repo. Many thanks for them.

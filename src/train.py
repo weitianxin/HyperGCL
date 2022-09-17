@@ -1013,8 +1013,7 @@ if __name__ == '__main__':
     if not osp.isdir(res_root):
         os.makedirs(res_root)
 
-    # filename = f'{res_root}/{args.dname}_noise_{args.feature_noise}.csv'
-    filename="rebuttal_{}.csv".format(args.m_l)
+    filename = f'{res_root}/{args.dname}_noise_{args.feature_noise}.csv'
     print(f"Saving results to {filename}")
     with open(filename, 'a+') as write_obj:
         if args.p_lr:

@@ -976,8 +976,7 @@ if __name__ == '__main__':
     res_root = 'hyperparameter_tunning'
     if not osp.isdir(res_root):
         os.makedirs(res_root)
-    filename="auto_rebuttal.csv"
-    # filename = f'{res_root}/Auto_{args.dname}_noise_{args.feature_noise}.csv'
+    filename = f'{res_root}/Auto_{args.dname}_noise_{args.feature_noise}.csv'
     print(f"Saving results to {filename}")
     with open(filename, 'a+') as write_obj:
         if args.m_l:

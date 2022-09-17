@@ -11,6 +11,7 @@ This paper targets at improving the generalizability of hypergraph neural networ
 ![123](figure/frame.jpg)
 
 ## Enviroment
+Here we list our runing environment.
 ```
 python==3.6.13
 torch==1.10.2
@@ -26,7 +27,7 @@ where we used the latest version of Pytorch-Geometric at that time. Other versio
 
 ## Data Set
 
-All the data files are stored in the data folder.
+All the data files are stored in the "data" folder.
 
 To conduct experiments, please unzip the raw_data.zip in the folder.
 ```
@@ -37,7 +38,7 @@ It will extract the data sets into the corresponding folder.
 Other data sets like the attack data are also stored in the relevant folder.
 
 ## Experiments
-All core code are in the folder src. Please enter the folder first to run the experiments. 
+All core code are in the folder "src". Please enter the folder first to run the experiments. 
 ```
 cd src/
 ```

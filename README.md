@@ -54,7 +54,7 @@ where 0 is the GPU device id to use and edge denotes the fabricated augmentation
 
 
 ## Acknowledgements
-Part of our code references the [AllSet](https://github.com/jianhao2016/AllSet) code repo. Many thanks for them.
+The data sets and part of our code references the [AllSet](https://github.com/jianhao2016/AllSet) repo. Many thanks for them.
 
 ## Citation
 If you find our code or data useful, please kindly cite our paper.

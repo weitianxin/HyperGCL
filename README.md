@@ -62,11 +62,13 @@ The data sets and part of our code refer to the [AllSet](https://github.com/jian
 If you find our code or paper useful, please kindly cite our paper.
 
 ```
-@inproceedings{wei2022hypergcl,
- author = {Wei, Tianxin and You, Yuning and Chen, Tianlong and Shen, Yang and He, Jinghui and Wang, Zhangyang},
- booktitle = {Advances in Neural Information Processing Systems},
- title = {Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative},
- year = {2022}
+@misc{wei2022augmentations,
+      title={Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative}, 
+      author={Tianxin Wei and Yuning You and Tianlong Chen and Yang Shen and Jingrui He and Zhangyang Wang},
+      year={2022},
+      eprint={2210.03801},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
 ```
 

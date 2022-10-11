@@ -1,7 +1,7 @@
 # HyperGCL
 This is the repo for our NeurIPS 2022 paper based on Pytorch.
 
-**Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative**
+[**Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative**](https://arxiv.org/abs/2210.03801)
 
 by Tianxin Wei*, Yuning You*, Tianlong Chen, Yang Shen, Jingrui He, Zhangyang Wang.
 
